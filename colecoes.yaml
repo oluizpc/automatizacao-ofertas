@@ -1,0 +1,16 @@
+cristao_familia:
+  paises_busca: [BR, US]
+  termos_pt: [devocional, "devocional para casais", "oração pelos filhos", "21 dias de oração", novena, "estudo bíblico pdf"]
+  termos_es: ["devocional para parejas", "oración por mis hijos", novena, "estudio bíblico pdf"]
+artesanato_renda_extra:
+  paises_busca: [BR]
+  termos_pt: [moldes, "crochê pdf", "apostila", "projetos de", "receitas pdf"]
+  termos_es: [moldes, "crochet pdf", "patrones"]
+maternidade_infantil:
+  paises_busca: [BR, US]
+  termos_pt: ["atividades para crianças", "kit atividades", "desenvolvimento infantil"]
+  termos_es: ["actividades para niños", "estimulación"]
+sazonal_natal:
+  paises_busca: [BR]
+  termos_pt: ["natal moldes", "decoração de natal pdf", "ceia de natal"]
+  termos_es: ["moldes navideños", "decoración navideña"]
